@@ -2,7 +2,7 @@
 Chess Solitaire
 
 ## Description
-a 4 x 4 board game that supports features including setup, start, reset, move, redo and undo.
+a 4 x 4 board game that supports features including setup, start, reset, move, redo and undo./
 *The project is developed under Design by Contract(DbC)*
 
 ## Design pattern Used
