@@ -1,13 +1,22 @@
-## Name
+## Project Name
 Chess Solitaire
 
 ## Description
-Designed a 4 x 4 board game supports features including setup, start, reset, move, redo and undo
+a 4 x 4 board game that supports features including setup, start, reset, move, redo and undo. 
+The project is developed under Design by Contract(DbC).
 
 ## Design pattern Used
-* command
-* singleton
-* iterator
+* Command
+* Singleton
+* Iterator
+
+## Principle Used
+* Single choice principle
+* Information hiding principle
+
+## BON Diagram
+![bon](/bon.png?raw=true "Optional Title")
 
 ## Test
-Build with regression testing under Eiffel testing framework
+Built with regression testing under Eiffel testing framework.
+
